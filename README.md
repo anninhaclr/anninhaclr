@@ -1,6 +1,6 @@
 ## bem vinda ao meu perfil :)
 meu nome é Anna Clara
-- estou estudando no alura
+- estou estudando no [Alura]
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para organizaçao e compartilhamento dos meus projetos desenvolvidos
 
@@ -8,3 +8,7 @@ meu nome é Anna Clara
 - 
 - annaclarasdi@gmail.com
 - @ann4clr
+
+![](https://media.tenor.com/NmX0M5INgygAAAAi/hello-kitty.gif
+)
+
